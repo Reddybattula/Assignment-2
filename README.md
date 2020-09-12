@@ -3,7 +3,7 @@
 
 
 ## Name
-Simple website only with HTML5
+Simple website with four pages coded in HTML5
 
 ## Description
 This website consists of four pages namely homepage, solutions, aboutus, contactus.
