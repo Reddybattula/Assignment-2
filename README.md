@@ -8,20 +8,20 @@ Simple website with four pages coded in HTML5
 ## Description
 This website consists of four pages namely homepage, solutions, aboutus, contactus.
 ### Home page
-It contains breif descrition about the following:  
+It contains breif descrition of the following:  
 * Welcome message
 * Solutions
 * Client Testimonials
 * Link to Module Media
 
 ### Solutions page
-It contains breif descrition about the following solutions:  
+It contains breif descrition of the following solutions:  
 * vProspect 2.0
 * vConvert 2.0
 * vRetain 1.0
 
 ### Aboutus page
-It contains breif descrition about the following:  
+It contains breif descrition of the following:  
 * Company Overview
 * Management Team Members
 
